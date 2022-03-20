@@ -21,7 +21,7 @@ Title 1, :doc:`Communication`
 --------
 .. toctree::
 
-   docs/预编码技术.docx\n  
+   docs/:doc:预编码技术.docx 
    api
 
 Title 2, :doc:`LTE&5G`
@@ -48,12 +48,11 @@ Code block need begin with ::
 +++++++++++++++++++++++++++++
 
 ::
-   {undefined
-         "name": "Zhang Hua",
-         "url": <> 
+   {
+         "name": ,
+         "url": <https://www.baidu.com/> 
        }
-List need begin with *
-++++++++++++++++++++++
+
 
 The following attributes are used in the request body:
 
