@@ -21,9 +21,6 @@ T1.`Communication`
 --------------------------------------
 --------
 .. toctree::
-
-   api
-
    :maxdepth: 2
    
    index.rst
