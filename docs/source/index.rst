@@ -21,9 +21,10 @@ Title 1, :doc:`Communication`
 --------
 .. toctree::
 
-   docs/source/docs/预编码技术.docx
+   docs/预编码技术.docx
+   
    api
-
+--------
 Title 2, :doc:`LTE&5G`
 --------------------------------------
 --------
