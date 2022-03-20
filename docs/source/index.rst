@@ -18,18 +18,30 @@ GET  clouds/{cloud_id}/networks          Retrieve list of network extensions
 
 Title 1, :doc:`Communication`
 --------------------------------------
+--------
+.. toctree::
+   usage
+   api
 
-Title 3, :doc:`LTE&5G`
+Title 2, :doc:`LTE&5G`
 --------------------------------------
+--------
+.. toctree::
 
 Title 3, :doc:`MathTextBooks`
 --------------------------------------
+--------
+.. toctree::
 
-Title 3, :doc:`DSP`
+Title 4, :doc:`DSP`
 --------------------------------------
+--------
+.. toctree::
 
-Title 3, :doc:`FPGA`
+Title 5, :doc:`FPGA`
 --------------------------------------
+--------
+.. toctree::
 
 Code block need begin with ::
 +++++++++++++++++++++++++++++
