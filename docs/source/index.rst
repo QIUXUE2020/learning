@@ -20,8 +20,8 @@ Title 1, :doc:`Communication`
 --------------------------------------
 --------
 .. toctree::
-   :maxdepth: 5
-   docs/source/docs/预编码技术.docx 
+   :maxdepth: 2
+   docs/index.rst 
    api
 
 Title 2, :doc:`LTE&5G`
