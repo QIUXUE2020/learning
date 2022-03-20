@@ -7,7 +7,7 @@ Welcome to Liqx's documentation!
    This project is used for testing.
    
 Catalogue
-===================================
+--------
 
 .. toctree::
 
