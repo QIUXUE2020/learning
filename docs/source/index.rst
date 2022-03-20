@@ -1,5 +1,5 @@
 Welcome to Liqx's documentation!
-  <https://www.baidu.com/>
+ `百度 <https://www.baidu.com/>`_
 ===================================
 
 .. note::
