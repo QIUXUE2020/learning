@@ -18,6 +18,5 @@ Catalogue
    FPGA
    WebPage
    
- 
-:download:`预编码技术  <../预编码技术.docx>`_.
-:download:`引用非rst的本地文档 <../requirements.txt>`.
+:download:`引用非rst的本地文档 <../预编码技术.docx>`.
+---------------------------------------------------
